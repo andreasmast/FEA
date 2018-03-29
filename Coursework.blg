@@ -1,5 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Coursework.aux
 The style file: apalike.bst
-I found no \citation commands---while reading file Coursework.aux
 Database file #1: bib.bib
-(There was 1 error message)
+Warning--entry type for "matweb2018" isn't style-file defined
+--line 1 of file bib.bib
+(There was 1 warning)

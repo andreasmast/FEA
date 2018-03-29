@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.8)  28 MAR 2018 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.8)  29 MAR 2018 12:22
 entering extended mode
 **./Coursework.tex
 (Coursework.tex
@@ -379,36 +379,61 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@ContinuedFloat=\count118
 Package caption Info: hyperref package is loaded.
 )
-(Coursework.aux)
+(C:\Users\Gaming\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen141
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen142
+\subfiglabelskip=\skip57
+\c@subfigure=\count119
+\c@lofdepth=\count120
+\c@subtable=\count121
+\c@lotdepth=\count122
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\Gaming\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip58
+\subfig@bottom=\skip59
+) (D:\MiKTeX\tex\latex\multirow\multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count123
+\multirow@dima=\skip61
+\bigstrutjot=\dimen143
+) (Coursework.aux)
 \openout1 = `Coursework.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 (C:\Users\Gaming\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count119
-\scratchdimen=\dimen141
+\scratchcounter=\count124
+\scratchdimen=\dimen144
 \scratchbox=\box33
-\nofMPsegments=\count120
-\nofMParguments=\count121
+\nofMPsegments=\count125
+\nofMParguments=\count126
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count122
-\MPscratchDim=\dimen142
-\MPnumerator=\count123
-\makeMPintoPDFobject=\count124
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen145
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
 \everyMPtoPDFconversion=\toks28
 ) (D:\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -424,7 +449,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 49.
+(scrlayer)             \begin{document} on input line 51.
 
 
 Package scrlayer-scrpage Warning: Very small head height detected!
@@ -445,7 +470,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring ON on input line 49.
+Package hyperref Info: Link coloring ON on input line 51.
 
 (D:\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -453,11 +478,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (D:\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count125
+\c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
  (Coursework.out)
 (Coursework.out)
 \@outlinefile=\write3
@@ -499,36 +524,44 @@ LaTeX Info: Redefining \nameref on input line 49.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<Bilder/logo.jpg, id=27, 318.7107pt x 323.7696pt>
+<Bilder/logo.jpg, id=39, 318.7107pt x 323.7696pt>
 File: Bilder/logo.jpg Graphic file (type jpg)
 <use Bilder/logo.jpg>
-Package pdftex.def Info: Bilder/logo.jpg  used on input line 54. on input line 
-54.
-Package pdftex.def Info: Requested size: 159.35495pt x 161.8844pt on input line
- 54.
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 56. on input line 
+56.
+Package pdftex.def Info: Requested size: 95.61394pt x 97.13162pt on input line 
+56.
+<Bilder/FEA_schema.png, id=40, 1418.29875pt x 797.98125pt>
+File: Bilder/FEA_schema.png Graphic file (type png)
+<use Bilder/FEA_schema.png>
+Package pdftex.def Info: Bilder/FEA_schema.png  used on input line 67. on input
+ line 67.
+Package pdftex.def Info: Requested size: 425.4929pt x 239.39621pt on input line
+ 67.
 [1
 
 {C:/Users/Gaming/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/l
-ogo.jpg>] (Coursework.toc)
+ogo.jpg> <./Bilder/FEA_schema.png>] (Coursework.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(D:\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+ (D:\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `Coursework.toc'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 88.
- (D:\MiKTeX\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 88.
-
-(D:\MiKTeX\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 File: Bilder/logo.jpg Graphic file (type jpg)
 <use Bilder/logo.jpg>
-Package pdftex.def Info: Bilder/logo.jpg  used on input line 88. on input line 
-88.
-Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 8
-8.
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 94. on input line 
+94.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 9
+4.
 
 
 Package scrlayer-scrpage Warning: \headheight to low.
@@ -538,80 +571,137 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=64.33173pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 8
-8.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 9
+4.
 
 
 Overfull \vbox (52.33173pt too high) has occurred while \output is active []
 
 
-[1]
-<Bilder/FEA_schema_3.png, id=49, 587.19376pt x 441.14813pt>
+[1] (Coursework.lof)
+\tf@lof=\write5
+\openout5 = `Coursework.lof'.
+
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 96. on input line 
+96.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 9
+6.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.96 	\newpage
+               [2] (Coursework.lot)
+\tf@lot=\write6
+\openout6 = `Coursework.lot'.
+
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 99. on input line 
+99.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 9
+9.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 	\newpage
+               [3]
+<Bilder/FEA_schema_3.png, id=82, 587.19376pt x 441.14813pt>
 File: Bilder/FEA_schema_3.png Graphic file (type png)
 <use Bilder/FEA_schema_3.png>
-Package pdftex.def Info: Bilder/FEA_schema_3.png  used on input line 102. on in
-put line 102.
-Package pdftex.def Info: Requested size: 293.59616pt x 220.57352pt on input lin
-e 102.
-<Input/Exercise_Schema.png, id=51, 496.85625pt x 271.0125pt>
+Package pdftex.def Info: Bilder/FEA_schema_3.png  used on input line 116. on in
+put line 116.
+Package pdftex.def Info: Requested size: 227.23059pt x 170.71652pt on input lin
+e 116.
+<Bilder/FEA_schema_1.png, id=83, 512.66531pt x 531.48563pt>
+File: Bilder/FEA_schema_1.png Graphic file (type png)
+<use Bilder/FEA_schema_1.png>
+Package pdftex.def Info: Bilder/FEA_schema_1.png  used on input line 117. on in
+put line 117.
+Package pdftex.def Info: Requested size: 164.67422pt x 170.71652pt on input lin
+e 117.
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 126. on input line
+ 126.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
+26.
+ [1 <./Bilder/FEA_schema_3.png> <./Bilder/FEA_schema_1.png>]
+<Input/Exercise_Schema.png, id=95, 496.85625pt x 271.0125pt>
 File: Input/Exercise_Schema.png Graphic file (type png)
 <use Input/Exercise_Schema.png>
-Package pdftex.def Info: Input/Exercise_Schema.png  used on input line 113. on 
-input line 113.
+Package pdftex.def Info: Input/Exercise_Schema.png  used on input line 129. on 
+input line 129.
 Package pdftex.def Info: Requested size: 372.64127pt x 203.25887pt on input lin
-e 113.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+e 129.
 File: Bilder/logo.jpg Graphic file (type jpg)
 <use Bilder/logo.jpg>
-Package pdftex.def Info: Bilder/logo.jpg  used on input line 132. on input line
- 132.
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 158. on input line
+ 158.
 Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
-32.
-[1 <./Bilder/FEA_schema_3.png>] (Coursework.bbl
+58.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
+[2 <./Input/Exercise_Schema.png>]
 File: Bilder/logo.jpg Graphic file (type jpg)
 <use Bilder/logo.jpg>
-Package pdftex.def Info: Bilder/logo.jpg  used on input line 153. on input line
- 153.
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 159. on input line
+ 159.
 Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
-53.
- [2 <./Input/Exercise_Schema.png>]
-File: Bilder/logo.jpg Graphic file (type jpg)
-<use Bilder/logo.jpg>
-Package pdftex.def Info: Bilder/logo.jpg  used on input line 153. on input line
- 153.
-Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
-53.
+59.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
- (Coursework.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 187. on input line
+ 187.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
+87.
+ [4]
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 187. on input line
+ 187.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
+87.
+ [5] (Coursework.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+File: Bilder/logo.jpg Graphic file (type jpg)
+<use Bilder/logo.jpg>
+Package pdftex.def Info: Bilder/logo.jpg  used on input line 189. on input line
+ 189.
+Package pdftex.def Info: Requested size: 56.9055pt x 57.80667pt on input line 1
+89.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+
+(Coursework.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `Coursework.out' has not changed.
-(rerunfilecheck)             Checksum: F00BC477D5D2130050B0CC1127A16D97;288.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+(rerunfilecheck)             Checksum: 4B9281AF544059CEF01B5BE10FDC9FC9;495.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 10839 strings out of 493312
- 192019 string characters out of 3146700
- 318499 words of memory out of 3000000
- 14215 multiletter control sequences out of 15000+200000
- 10147 words of font info for 38 fonts, out of 3000000 for 9000
+ 11092 strings out of 493312
+ 195842 string characters out of 3146700
+ 321823 words of memory out of 3000000
+ 14436 multiletter control sequences out of 15000+200000
+ 10623 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,23n,81p,307b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,23n,80p,536b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb
-><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on Coursework.pdf (5 pages, 749805 bytes).
+ublic/amsfonts/cm/cmmi12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><D:
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Coursework.pdf (10 pages, 1922219 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 64 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
